@@ -1,0 +1,21 @@
+{
+    "name": "code-beauty-dark",
+    "displayName": "code beauty",
+    "description": "dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "code beeauty dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/code beeauty dark-color-theme.json"
+            }
+        ]
+    }
+}
